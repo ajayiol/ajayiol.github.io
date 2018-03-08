@@ -8,5 +8,4 @@ languages and eager to learn new languages and improve my skill.
 
 
 
-"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
-- Linus Torvalds
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."- Linus Torvalds
