@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Brief introduction
+title:                        A Brief introduction
 ---
 
 My name is Oluwadamilola Ajayi and I am a programmer. I can create and design mobile and web applications, I am fluent in many programming
