@@ -1,18 +1,11 @@
 ---
 layout: page
-title: Resume
 permalink: /resume/
 ---
 <html>
 <body>
-<style>
-body {
-    background-color: lightblue;
-}
 
-</style>
-<h1 align= "center"><b>Oluwadamilola Ajayi</b></h1>
-<a href = "https://www.linkedin.com/in/oluwadamilola-ajayi-675186153/"> <center>View LinkedIn Profile</center> </a>
+
 
 <center>921 19th Street South Moorhead, Minnesota 56560| Phone: (763) 600-4674|Email: ajayiol@mnstate.edu</center>
 
