@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Oluwadamilola Ajayi's Website
+title: A Brief introduction
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My name is Oluwadamilola Ajayi and I am a programmer. I can create and design mobile and web applications, I am fluent in many programming
+languages and eager to learn new languages and improve my skill.
 
 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+- Linus Torvalds
