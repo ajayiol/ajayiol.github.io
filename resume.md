@@ -7,7 +7,7 @@ permalink: /resume/
 
 
 
-<center>921 19th Street South Moorhead, Minnesota 56560| Phone: (763) 600-4674|Email: ajayiol@mnstate.edu</center>
+<center>921 19th Street South Moorhead, Minnesota 56560|(763) 600-4674|nick_dammy2@yahoo.com</center>
 
 <p><u><b>Education:</b></u></p>
 
