@@ -4,7 +4,7 @@ title: A Brief introduction
 ---
 
 My name is Oluwadamilola Ajayi and I am a programmer. I can create and design mobile and web applications, I am fluent in many programming
-languages and eager to learn new languages and improve my skill.
+languages and eager to learn new languages and improve my skills.
 
 
 
