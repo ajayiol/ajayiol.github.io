@@ -7,7 +7,7 @@ permalink: /resume/
 
 
 
-921 19th Street South Moorhead, Minnesota 56560|(763) 600-4674|nick_dammy2@yahoo.com
+921 19th Street South Moorhead, Minnesota 56560|(763)6004674|nick_dammy2@yahoo.com
 
 <p><u><b>Education:</b></u></p>
 
